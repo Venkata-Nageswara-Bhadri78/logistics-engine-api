@@ -1,3 +1,12 @@
+# Note
+
+This project has also been implemented in **Java Spring Boot + Hibernate + MySQL**.
+
+Repository: [Spring Boot Version Repository](https://github.com/Venkata-Nageswara-Bhadri78/springboot-logistics-engine-api)
+
+The Spring Boot version includes JWT Authentication, RBAC, JPA/Hibernate, and production-ready backend architecture.
+
+
 # 🚚 Logistic Engine API
 
 Production-grade logistics backend built with Node.js and Express, designed to simulate real-world order lifecycle management, role-based access control, and failure recovery workflows.
